@@ -1,0 +1,29 @@
+@startuml
+
+
+class Producto {
+String: codigo
+String: nombre
+String: descripcion
+double: precio
+
+
+constructor()
+}
+
+
+
+
+class Persona {
+String: nombre
+String: sexo
+String: descripcion
+double: precio
+
+
+constructor()
+}
+
+
+
+@enduml
